@@ -8,7 +8,7 @@ public class Columbus extends Application{
 	public void start(Stage primaryStage) throws Exception {
 		// TODO Auto-generated method stub
 		Pane map = new Pane();
-		map.
+		map.getOpacity();
 	}
 	
 	public static void main(String[] args) {
